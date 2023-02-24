@@ -1,0 +1,32 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: gray;
+  height: 100px;
+  width: 100%;
+}
+
+div{
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 10%;
+  margin-left: 35%;
+  height: 340px;
+  width: 300px;
+}
+
+h1{
+  margin-left: 10px;
+}
+
+input{
+ margin-left: 10px;
+}
+
+button{
+  font-family: Arial, Helvetica, sans-serif;
+  height: 30px;
+  width: 70px;
+  margin-top: 20px;
+  margin-left: 70%;
+}
+

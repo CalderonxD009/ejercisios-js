@@ -1,0 +1,21 @@
+body{
+  background-color: gray;
+}
+
+div{
+  border-radius: 10px;
+  width: 270px;
+  background-color: white;
+  text-align: center;
+  margin-left: 37%;
+  margin-top: 8%;
+}
+
+input{
+  margin-bottom: 10px;
+}
+
+button{
+  font-size: 20px;
+  margin-bottom: 10px;
+}

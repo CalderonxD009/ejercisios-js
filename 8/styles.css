@@ -1,0 +1,25 @@
+body{
+  background-color: gray;
+  text-align: center;
+}
+
+
+
+
+
+.primero{
+  background-color: white;
+  margin-left: 25%;
+  width: 300px;
+}
+
+.segundo{
+  width: 300px;
+  margin-left: 50%;
+  margin-top: -23.5%;
+  background-color: white;
+}
+
+button{
+  margin: 20px;
+}
