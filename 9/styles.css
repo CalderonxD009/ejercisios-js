@@ -1,0 +1,31 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: gray;
+}
+div{
+  text-align: center;
+  background-color: white;
+  width: 280px;
+  border-radius: 10px;
+  margin-left: 40.5%;
+}
+
+
+input{
+  border-color: blue;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+button{
+  margin-bottom: 10px;
+}
+
+header {
+  border-radius: 10px;
+  background-color: aqua;
+  width: 320px;
+  margin-left: 38.5%;
+}
+
+

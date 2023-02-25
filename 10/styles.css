@@ -1,0 +1,16 @@
+body{
+  background-color: gray;
+}
+
+div{
+  text-align: center;
+  background-color: white;
+  width: 250px;
+  border-radius: 10px;
+  margin-left: 38%;
+  margin-top: 15%;
+}
+
+button{
+  margin: 10px;
+}
